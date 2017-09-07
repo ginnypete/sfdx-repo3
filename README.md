@@ -1,4 +1,3 @@
 #
-# sfdx-repo3 - change 2
+# sfdx-repo3
 #
-This is change 2.
