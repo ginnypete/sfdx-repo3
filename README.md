@@ -1,4 +1,3 @@
 #
-# sfdx-repo3 - change 1
+# sfdx-repo3
 #
-This is a new comment!
